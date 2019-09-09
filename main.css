@@ -1,5 +1,33 @@
-body 
-{
-    color: purple;
-    background-color: #d8da3d 
+body {
+    color: rgb(77, 48, 182);
+    background-color: #f1f1dd 
 }
+.navbar {
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+a:link {
+    color: black;
+}
+#main {
+    padding: 10px;
+    margin: 10px;
+}
+.sub {
+    padding: 10px;
+    margin: 10px;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
